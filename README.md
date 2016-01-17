@@ -7,7 +7,7 @@ Lightweight and highly configurable boostrap rails validator built on-top of [Do
 
 Add this line to your application's Gemfile:
 
-    gem "dominar-rails"
+    gem "dominar-rails",'~> 1.0.1'
 
 And then execute:
 
