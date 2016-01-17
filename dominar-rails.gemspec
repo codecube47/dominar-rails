@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["nilnaga89@gmail.com"]
   gem.description   = %q{dominar.js bundled for Rails Asset Pipeline}
   gem.summary       = %q{dominar.js bundled for Rails Asset Pipeline}
-  gem.homepage      = "https://github.com/mekishizufu/dominar-rails"
+  gem.homepage      = "https://github.com/vusaalab/dominar-rails"
   gem.license       = "MIT"
 
   gem.files         = Dir['{lib,vendor}/**/*'] + ['LICENSE.txt', 'README.md']
