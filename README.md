@@ -34,10 +34,10 @@ Demo [Dominar.js documentation](http://garygreen.github.io/dominar/).
             "user[name]": {
                 rules: 'required|min:3|max:10'
             },
-            user[notes]: {
+            "user[notes]": {
                 rules: 'required|min:5|max:20'
             },
-            user[group]: {
+            "user[group]": {
                 rules: 'required|in:guest,admin'
             }
      });
