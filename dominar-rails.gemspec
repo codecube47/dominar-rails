@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name          = "dominar-rails"
   gem.version       = Dominar::Rails::VERSION
   gem.authors       = ["Nilanga Saluwadana"]
-  gem.email         = ["nilnaga89@gmail.com"]
+  gem.email         = ["nilanga89@gmail.com"]
   gem.description   = %q{dominar.js bundled for Rails Asset Pipeline}
   gem.summary       = %q{dominar.js bundled for Rails Asset Pipeline}
   gem.homepage      = "https://github.com/vusaalab/dominar-rails"
