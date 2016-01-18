@@ -45,7 +45,7 @@ Demo [Dominar.js documentation](http://garygreen.github.io/dominar/).
 
 ## Versions
 
-The gem follows Dominar.js' versions. If the gem version is `1.0`, then `1.0` is the version of Dominar.js and `0`
+The gem follows Dominar.js' versions. If the gem version is `1.0.0`, then `1.0.1` is the version of Dominar.js and `0`
 is the patch level of the gem itself.
 
 ## Contributing
