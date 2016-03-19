@@ -1,3 +1,5 @@
+<a href="https://badge.fury.io/rb/dominar-rails"><img src="https://badge.fury.io/rb/dominar-rails.svg" alt="Gem Version" height="18"></a>
+
 Dominar Rails
 ====
 
