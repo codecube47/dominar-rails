@@ -32,7 +32,7 @@ Demo [Dominar.js documentation](http://garygreen.github.io/dominar/).
 
 ## Example
 
-     var validator = new Dominar(document.getElementById('new_user-form'), {
+     var validator = new Dominar(document.getElementById('new_user_form'), {
             "user[name]": {
                 rules: 'required|min:3|max:10'
             },
